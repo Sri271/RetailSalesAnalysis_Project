@@ -34,9 +34,9 @@ Markdowns: No significant trend between markdowns and sales was found. Assumptio
 
 Exploratory Data Analysis (EDA): Use pandas, matplotlib, and seaborn libraries to explore the dataset. Analyze different variables, their distributions, and relationships. Generate visualizations such as histograms, scatter plots, or box plots to gain insights into the data.
 
-Machine Learning Regression: Apply various machine learning regression algorithms to predict the selling price of industrial copper. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as mean squared error (MSE).
+Machine Learning Regression: Apply various machine learning regression algorithms to predict the sales. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as mean squared error (MSE).
 
-Machine Learning Classification: Apply different machine learning classification algorithms to predict the status (won or lost) of copper transactions. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as accuracy, precision, and recall.
+Machine Learning Classification: Apply different machine learning classification algorithms to predict the sales. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as accuracy, precision, and recall.
 
 Documentation: Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
